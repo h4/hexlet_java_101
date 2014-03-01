@@ -14,8 +14,8 @@ public class Main {
 
         System.out.println("~~~~~~~~~~~~~~~~~~");
 
-        Class classJava = new Class();
-        classJava.name = "Java Class";
-        System.out.println(classJava.name);
+        Course courseJava = new Course();
+        courseJava.name = "Java Course";
+        System.out.println(courseJava.name);
     }
 }
